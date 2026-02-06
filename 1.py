@@ -1,1 +1,4 @@
-print ("john cena true fan quiz")
+def John():
+    print("John Cena true fan quiz")
+
+John()
